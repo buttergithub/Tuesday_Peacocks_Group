@@ -60,7 +60,7 @@ The **Police Examination Process** project aims to develop a streamlined, digita
 - **Data Scenarios:**
   - **Failed Exam:** Track failed attempts and flag retest eligibility.
   - **License Issuance:** Issue a license upon passing and archive records.
-  - **Notifications:** Automate exam schedule and result notifications.
+  - **Notifications:** Automate exam schedule and result notifications. (Trigger notifications for exam dates and results)
 
 ## Conclusion
 The **Police Examination Process** project establishes an efficient, digitalized workflow for driving license applications, with enhanced speed, accuracy, and centralized data management through BPMN modeling and structured data relationships.
