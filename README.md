@@ -1,5 +1,5 @@
-##Peacock Group
-##Members:
+# Peacock Group
+## Members:
  1. 25048 Ntwari Deus
  2. 25918 INGABIRE NZARAMBA Ritha
  3. 26155 Ishimwe Mahoro Christianne 
