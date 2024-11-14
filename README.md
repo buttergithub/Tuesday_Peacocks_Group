@@ -21,7 +21,7 @@ The **Police Examination Process** project aims to develop a streamlined, digita
 
 ## Project Phases
 
-### Phase 2: Business Process Modeling (BPMN Diagram)
+### Phase 2: Business Process Modeling (BPMN Diagram).
 - **Scope:** Design a digitalized driving license application process, from registration to final issuance.
 - **Objectives:**
   - Reduce manual errors and enhance processing efficiency.
