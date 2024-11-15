@@ -5,7 +5,7 @@
  3. 26155 Ishimwe Mahoro Christianne 
  4. 26046 MABHYALA Wulsy
  5. 25514 HURUMA Innocent
- 6. 24849 Nahayo Arnaud
+ 6. 24849 NAHAYO Arnaud
  7. 25964 Mugisha Godefroid
  8. 26073 UMUGWANEZA Aimée
  9. 26975 NIYOYAVUZE AMIELLE PONTIENNE
@@ -51,7 +51,7 @@ The **Police Examination Process** project aims to develop a streamlined, digita
     - **Test:** `test_id (PK)`, `schedule_id (FK)`, `examiner_id (FK)`, `test_type`, `result`, `comments`.
     - **Examiner:** `examiner_id (PK)`, `fname`, `lname`, `qualification`, `assigned_center`.
     - **License:** `license_id (PK)`, `applicant_id (FK)`, `issue_date`, `expiration_date`, `license_type`.
-    - **Notification:** `notification_id (PK)`, `schedule_id (FK)`, `sent_date`, `status`, `message_type`.
+    - **Notifications:** `notification_id (PK)`, `schedule_id (FK)`, `sent_date`, `status`, `message_type`.
 
 - **Relationships:**
   - **One-to-Many:** An applicant can have multiple exam attempts.
