@@ -195,4 +195,4 @@ Each table is interconnected using **primary keys** and **foreign key constraint
 
 
 ## Conclusion
-The **Police Examination Process** project establishes an efficient, digitalized workflow for driving license applications, with enhanced speed, accuracy, and centralized data management through BPMN modeling and structured data relationships.
+The **Police Examination Process** project establishes an efficient, digitalized workflow for driving license applications, with enhanced speed, accuracy, and centralized data management through BPMN modeling and structured data relationships..
