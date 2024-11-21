@@ -17,7 +17,7 @@
 # Police Examination Process - README
 
 ## Project Overview
-The **Police Examination Process** project aims to develop a streamlined, digitalized system to support applicants in obtaining driving licenses, covering everything from registration to examination and result notification. Key processes are automated to minimize manual data handling and ensure data accuracy.
+The **Police Examination Process** project aims to develop a streamlined, digitalized system to support applicants in obtaining driving licenses, covering everything from registration to examination and result notification. Key processes are automated to minimize manual data handling and ensure data accuracy and enhance protection.
 
 ## Project Phases
 
