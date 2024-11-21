@@ -192,11 +192,7 @@ Each table is interconnected using **primary keys** and **foreign key constraint
 
 ---
 
-### Author  
-- **Mugisha Godefroid**  
-   *Frontend Software Developer & Database Enthusiast*  
 
-**_For any questions or suggestions, please contact via [godfrey123mugisha@gmail.com](mailto:godfrey123mugisha@gmail.com)._**  
 
 ## Conclusion
 The **Police Examination Process** project establishes an efficient, digitalized workflow for driving license applications, with enhanced speed, accuracy, and centralized data management through BPMN modeling and structured data relationships.
